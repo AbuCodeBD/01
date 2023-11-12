@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function App() {
   return (
-    <div>App is me</div>
+    <div>this is mey own app</div>
   )
 }
